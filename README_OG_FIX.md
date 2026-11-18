@@ -1,0 +1,1 @@
+V4.1 fixes oversized right-side white box by constraining floating tech badges, renames Laravel badge, and adds 1200x630 OG image. IMPORTANT: Before publishing, change og:image and twitter:image in index.html to the FULL HTTPS URL of the deployed assets/og-jasikaran.jpg. Social crawlers generally require absolute public URLs. This is an AI-generated design portrait/illustration.
